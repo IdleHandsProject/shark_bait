@@ -1,2 +1,4 @@
-# shark_bait
-The files and firmware for the Shark Bait wireless pumping system.
+# SHARK BAIT
+
+Check out the video using the Shark Bait Pumping System:
+

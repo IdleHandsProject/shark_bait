@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name shark_bait-rescue)(type Legacy)(uri ${KIPRJMOD}/shark_bait-rescue.lib)(options "")(descr ""))
+)
